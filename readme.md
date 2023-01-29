@@ -1,10 +1,14 @@
 # Demo project
 
+![Peter Parker](https://user-images.githubusercontent.com/96720769/215310208-4b10ca28-e363-4038-89a3-80f0aced3faf.png)
+
+
+![machine-learning-life-cycle](https://user-images.githubusercontent.com/75840165/114572787-6dbb8c80-9c95-11eb-8865-d8bf0d677f68.png)
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/96720769/215309464-3335e3ad-f481-465d-8fcd-b8bf16df19d0.png)
 
 
-![daf55bea83403b73b41981e4df06e48d](https://user-images.githubusercontent.com/96720769/215309014-fe1a1828-43ed-4837-a8c3-76da1629a029.jpg)
+![daf55bea83403b73b41981e4df06e48d](https://user-images.githubusercontent.com/96720769/215309014-fe1a1828-43ed-4837-a8c3-76da1629a029.png)
 
 
 

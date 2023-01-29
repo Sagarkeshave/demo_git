@@ -36,3 +36,13 @@
 >* saledate: the date of the sale
 
 For detailed information about feature in dataset download data dictionary file form kaggle
+
+
+
+
+
+https://i.pinimg.com/originals/da/f5/5b/daf55bea83403b73b41981e4df06e48d.jpg
+
+
+.
+
